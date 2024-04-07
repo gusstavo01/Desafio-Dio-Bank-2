@@ -1,7 +1,8 @@
 # Desafio dio Bank
 
-Este projeto é um desafio proposto pela Digital Innovation One (DIO) durante a formação Fullstack em TypeScript. O projeto consiste em uma aplicação web para simular operações bancárias, como login, visualização de informações da conta e saldo.
-
+- Este projeto é um desafio proposto pela Digital Innovation One (DIO) durante a formação Fullstack em TypeScript. O projeto consiste em uma aplicação web para simular operações bancárias, como login, visualização de informações da conta e saldo.
+- https://desafio-dio-bank.netlify.app/
+  
 # Funcionalidades
 ## Página de Login (Home)
 - Os usuários podem fazer login inserindo seu email e senha.
