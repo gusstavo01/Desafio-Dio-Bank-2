@@ -17,7 +17,7 @@ interface IAppContext  {
         const {login} = JSON.parse(storage);
         setIsLoggedIn(login);
       }
-    },[])
+    },[storage])
    
 
     const user = 'Gustavo';
